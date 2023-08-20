@@ -11,21 +11,27 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
+#EXTINF:-1 ,De pelicuala
+http://e10.telerium.link:2052/free10/055/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDEwOjI4OjUxIFBNJmhhc2hfdmFsdWU9cFJCRzJleGFkZ2laUEt2TGpzYnNodz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1 , Canal 5
 http://e10.telerium.link:2052/free10/010/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDEwOjE3OjA5IFBNJmhhc2hfdmFsdWU9SWNEVjRIbHF3cVlmMk1IaG1mNHF4UT09JnZhbGlkbWludXRlcz0yNDA=
 
+#EXTINF:-1 ,Warner
+http://e10.telerium.link:2052/free10/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDU6MzE6NTggUE0maGFzaF92YWx1ZT04RWNja3FLanFFOEN4a2hmMEgwWmp3PT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 ,Cartón netword
+http://e10.telerium.link:2052/free10/146/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDU6MzI6NTAgUE0maGFzaF92YWx1ZT1sbHNzUktZQk1tdTcveFB3dHRJck9nPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 , Nick
+http://e10.telerium.link:2052/free10/152/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDU6MzM6NDcgUE0maGFzaF92YWx1ZT1valJ4bVF4UU5yK0t3YXhLa2lJNzBBPT0mdmFsaWRtaW51dGVzPTI0MA==
+
 #EXTINF:-1 ,Distrito comedia
 http://e10.telerium.link:2052/free10/056/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDEwOjMwOjIyIFBNJmhhc2hfdmFsdWU9a09TUzVMb3FJYTgzQVd5K1hTeFcwZz09JnZhbGlkbWludXRlcz0yNDA=
 
-#EXTINF:-1 ,De pelicuala
-http://e10.telerium.link:2052/free10/055/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDEwOjI4OjUxIFBNJmhhc2hfdmFsdWU9cFJCRzJleGFkZ2laUEt2TGpzYnNodz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 ,Comedia central
+http://e10.telerium.link:2052/free10/054/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDU6MzA6MDUgUE0maGFzaF92YWx1ZT1vVVpVNm1DMGt4QjBpSnQrMENkVm1BPT0mdmFsaWRtaW51dGVzPTI0MA==
 
-#EXTINF:-1 ,Hyh
-http://e10.telerium.link:2052/free10/015/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDE6NTA6MzEgQU0maGFzaF92YWx1ZT1PMXplK3hyeFRrUENOM1JOWEViU1ZnPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-#EXTINF:-1 ,Tlc
-http://e10.telerium.link:2052/free10/018/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDE6NTE6NTcgQU0maGFzaF92YWx1ZT1EMHlXbzRHSzB2MmhDNStCNmlWcWl3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 ,H
 http://e10.telerium.link:2052/free10/029/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDE6NTM6MjMgQU0maGFzaF92YWx1ZT10TE9HeTJaWDJ1Ny9RV2krUnBVTWtRPT0mdmFsaWRtaW51dGVzPTI0MA==
@@ -57,20 +63,15 @@ http://e10.telerium.link:2052/free10/051/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 ,Cinecanal
 http://e10.telerium.link:2052/free10/052/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDU6Mjk6MTMgUE0maGFzaF92YWx1ZT1PTjF4NnhFQ2hzVGN0c2UrUXNOajBRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
-#EXTINF:-1 ,Comedia central
-http://e10.telerium.link:2052/free10/054/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDU6MzA6MDUgUE0maGFzaF92YWx1ZT1vVVpVNm1DMGt4QjBpSnQrMENkVm1BPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 ,Golden
 http://e10.telerium.link:2052/free10/064/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDU6MzE6MDggUE0maGFzaF92YWx1ZT1TTnZ4Vi94L2l3Nk5jVys1bHdTVlB3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
-#EXTINF:-1 ,Warner
-http://e10.telerium.link:2052/free10/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDU6MzE6NTggUE0maGFzaF92YWx1ZT04RWNja3FLanFFOEN4a2hmMEgwWmp3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 ,Hyh
+http://e10.telerium.link:2052/free10/015/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDE6NTA6MzEgQU0maGFzaF92YWx1ZT1PMXplK3hyeFRrUENOM1JOWEViU1ZnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
-#EXTINF:-1 ,Cartón netword
-http://e10.telerium.link:2052/free10/146/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDU6MzI6NTAgUE0maGFzaF92YWx1ZT1sbHNzUktZQk1tdTcveFB3dHRJck9nPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-#EXTINF:-1 , Nick
-http://e10.telerium.link:2052/free10/152/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDU6MzM6NDcgUE0maGFzaF92YWx1ZT1valJ4bVF4UU5yK0t3YXhLa2lJNzBBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 ,Tlc
+http://e10.telerium.link:2052/free10/018/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDE6NTE6NTcgQU0maGFzaF92YWx1ZT1EMHlXbzRHSzB2MmhDNStCNmlWcWl3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 
 
