@@ -19,6 +19,23 @@ http://e10.telerium.link:2052/free10/056/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 ,De pelicuala
 http://e10.telerium.link:2052/free10/055/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDEwOjI4OjUxIFBNJmhhc2hfdmFsdWU9cFJCRzJleGFkZ2laUEt2TGpzYnNodz09JnZhbGlkbWludXRlcz0yNDA=
 
+#EXTINF:-1 ,Hyh
+http://e10.telerium.link:2052/free10/015/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDE6NTA6MzEgQU0maGFzaF92YWx1ZT1PMXplK3hyeFRrUENOM1JOWEViU1ZnPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 ,Tcl
+http://e10.telerium.link:2052/free10/018/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDE6NTE6NTcgQU0maGFzaF92YWx1ZT1EMHlXbzRHSzB2MmhDNStCNmlWcWl3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 ,H
+ http://e10.telerium.link:2052/free10/029/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDE6NTM6MjMgQU0maGFzaF92YWx1ZT10TE9HeTJaWDJ1Ny9RV2krUnBVTWtRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 ,Star
+http://e10.telerium.link:2052/free10/030/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDE6NTQ6MDggQU0maGFzaF92YWx1ZT1NaHZzY2ZMdEl3d2hXRWdsK0sybEh3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 ,A&e
+http://e10.telerium.link:2052/free10/049/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDE6NTU6NDQgQU0maGFzaF92YWx1ZT12L2l1dDRSMXV4Rk9YdmsxZ0VDUjB3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 ,Fox
+http://e10.telerium.link:2052/free10/063/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDE6NTc6MzUgQU0maGFzaF92YWx1ZT1Sb2FnZm9odjlQRTRhY0wxR1hnT0xBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 ,HBO
+http://e10.telerium.link:2052/free10/066/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDE6NTg6MTcgQU0maGFzaF92YWx1ZT1QNmJBY2p6NUc5a0cxT0dxejYyZm5nPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 ,Hbo2
+http://e10.telerium.link:2052/free10/070/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDE6NTk6MDggQU0maGFzaF92YWx1ZT1ZUDNKalJ1MUZnYXUxeExja1l2Nmh3PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 
 #EXTINF:-1 ,SOMOS DEL ESTE TV
