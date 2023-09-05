@@ -50,6 +50,22 @@ http://e10.telerium.link:2052/free10/046/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 , Nick
 http://e10.telerium.link:2052/free10/152/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDU6MzM6NDcgUE0maGFzaF92YWx1ZT1valJ4bVF4UU5yK0t3YXhLa2lJNzBBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
+#EXTINF:-1 ,Disney chanel
+http://e10.telerium.link:2052/free10/147/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjMgMTI6NTU6NDEgQU0maGFzaF92YWx1ZT1aY1hpeWRaUVNOdGRZbUNWNlRSU2ZBPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 ,Disney junior
+http://e10.telerium.link:2052/free10/148/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjMgMTI6NTY6MjcgQU0maGFzaF92YWx1ZT1VZ2pTSGxzWGl3TkhGZk9QRldyRlJ3PT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 ,Nick jr
+http://e10.telerium.link:2052/free10/151/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjMgMTI6NTg6MjggQU0maGFzaF92YWx1ZT00eXVFOXppb0JSejhTNmFXcjNOMjBRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 ,Tooncasts
+http://e10.telerium.link:2052/free10/154/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjMgMTI6NTk6MjAgQU0maGFzaF92YWx1ZT1LYUlrMWVZUC9qVzU4QUlGWTVtVjZBPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 ,Discovery kis
+http://e10.telerium.link:2052/free10/156/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjMgMTowMDoyNSBBTSZoYXNoX3ZhbHVlPTFEZXJhc1k3cnZnelVqUHllTENqNHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+
 #EXTINF:-1 ,H
 http://e10.telerium.link:2052/free10/029/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIzIDE6NTM6MjMgQU0maGFzaF92YWx1ZT10TE9HeTJaWDJ1Ny9RV2krUnBVTWtRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
@@ -74,6 +90,12 @@ http://e10.telerium.link:2052/free10/067/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 ,HBO +
 http://e10.telerium.link:2052/free10/068/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjMgOToyMjo0NSBQTSZoYXNoX3ZhbHVlPW9CbkZTK1doUE5BRklLRDZGQVdRK3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
+#EXTINF:-1 ,HBO mundi
+http://e10.telerium.link:2052/free10/181/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjMgMTowODo1NyBBTSZoYXNoX3ZhbHVlPXliVXFFRTFRYmJBNU5HOVNtcVBIOEE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 ,HBO POP
+http://e10.telerium.link:2052/free10/172/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjMgMTowNjoyMCBBTSZoYXNoX3ZhbHVlPVhCMFRGZ2IrS1dQL3FyenJEYWZSbFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
 #EXTINF:-1 ,HBO signature
 http://e10.telerium.link:2052/free10/069/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjMgOToyMzoyNCBQTSZoYXNoX3ZhbHVlPUFvVG96dHBqaXR5R2FQeDVEMCtsaWc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
@@ -91,6 +113,9 @@ http://e10.telerium.link:2052/free10/059/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 
 #EXTINF:-1 ,Universal premier
 http://e10.telerium.link:2052/free10/060/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjMgOToxMjowNiBQTSZoYXNoX3ZhbHVlPWFBYUJ1cHprYzNvQnRiSnBUNU81SHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 ,Universal chanel
+http://e10.telerium.link:2052/free10/079/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjMgMTI6NTI6MjAgQU0maGFzaF92YWx1ZT1uRy85emJtSFpJOHowU0JLcnRIU1lBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 ,Universal reality
 http://e10.telerium.link:2052/free10/061/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjMgOToxMjo1MSBQTSZoYXNoX3ZhbHVlPWJld0t5L1cvbW9aWUdjNjcrR3kwK3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
@@ -211,6 +236,26 @@ http://e10.telerium.link:2052/free10/076/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 
 #EXTINF:-1 ,TNT series
 http://e10.telerium.link:2052/free10/078/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjMgOTozMTo1OSBQTSZoYXNoX3ZhbHVlPW1McnA0VjJnMFlwQlFpMnBjSGVwSXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 ,Discovery chanel
+http://e10.telerium.link:2052/free10/160/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjMgMTowMToyOSBBTSZoYXNoX3ZhbHVlPWVSWENjbE9aNkd5eHduQnZ2VFdrTkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 ,Vine latino
+http://e10.telerium.link:2052/free10/163/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjMgMTowMjo0MSBBTSZoYXNoX3ZhbHVlPVRrOWVUZ29QVk9aYU0wdGdQbFBmb3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 ,Citi tv
+http://e10.telerium.link:2052/free10/164/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjMgMTowMzozMSBBTSZoYXNoX3ZhbHVlPU14TXVtbm91a0RLS1VCbUc2c3poQnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 ,Htv
+http://e10.telerium.link:2052/free10/171/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjMgMTowNTowMiBBTSZoYXNoX3ZhbHVlPWs3N1hpby9vQ1h1c1ZhQ01uNTh0WGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+
+#EXTINF:-1 ,Pasiones
+http://e10.telerium.link:2052/free10/173/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjMgMTowNzoyMCBBTSZoYXNoX3ZhbHVlPXdEMlk3elNLNXFsdjZENTdOSndUdVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+
+#EXTINF:-1 ,Latina peru
+http://e10.telerium.link:2052/free10/184/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjMgMToxMDowNiBBTSZoYXNoX3ZhbHVlPStVT0Zia0ZqOHFOUlFNWHgxZFluaUE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:-1 ,Space
 http://e10.telerium.link:2052/free10/074/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjMgOToyNTo1OSBQTSZoYXNoX3ZhbHVlPU05czVuV2twVlBZZWp4Mm1GWkVUY0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
