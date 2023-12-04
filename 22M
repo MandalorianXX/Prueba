@@ -11,28 +11,22 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 #EXTINF:-1 , Canal 5
-http://cdn1601.cdn77.online:2052/free16/010/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMyA5OjQ3OjIwIFBNJmhhc2hfdmFsdWU9QSsrUkoxUTJEWEhCdTBpbG40bXdHdz09JnZhbGlkbWludXRlcz0yNDA=
+http://e10.telerium.link:2052/free10/234/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIzIDM6NDY6MzMgUE0maGFzaF92YWx1ZT16bERjTW9LTUZ4SC9yalpTQ25RL1FRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
-
-#EXTINF:-1 ,H
-http://e10.telerium.link:2052/free10/029/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMyA5OjQ4OjQ5IFBNJmhhc2hfdmFsdWU9bHFtUUtJdWt6SnBNQnJKSnc2dys3dz09JnZhbGlkbWludXRlcz0yNDA=
+http://e10.telerium.link:2052/free10/029/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIzIDM6NDg6MjQgUE0maGFzaF92YWx1ZT05T21UeFNUcHgyU09UZWx3T3JwaFZnPT0mdmFsaWRtaW51dGVzPTI0MA==#EXTINF:-1 ,H
 
 #EXTINF:-1 ,Star
-http://e10.telerium.link:2052/free10/030/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMyA5OjQ5OjM5IFBNJmhhc2hfdmFsdWU9NndSWlpvYXc0NGFWTG1xT2ZEakpHZz09JnZhbGlkbWludXRlcz0yNDA=
-
+http://e10.telerium.link:2052/free10/030/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIzIDM6NDk6MTkgUE0maGFzaF92YWx1ZT02dzdsNGwyTW5oaWFNTHlkMHpVOWZnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 
 #EXTINF:-1 ,Comedia central
-http://e10.telerium.link:2052/free10/054/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMyA5OjUwOjU3IFBNJmhhc2hfdmFsdWU9K1g2R1BST3pXQVBIQzFlK3JFM2prUT09JnZhbGlkbWludXRlcz0yNDA=
-
+http://e10.telerium.link:2052/free10/054/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIzIDM6NTA6MjMgUE0maGFzaF92YWx1ZT1RTkx3WkY4WnZ4dWltN0srYjFEU3RRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 ,Distrito comedia
-http://e10.telerium.link:2052/free10/056/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMyA5OjUxOjQ4IFBNJmhhc2hfdmFsdWU9U1J0NmNlS3lBdVNKSFlHbXhJYjVSQT09JnZhbGlkbWludXRlcz0yNDA=
-
+http://e10.telerium.link:2052/free10/056/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIzIDM6NTE6MjQgUE0maGFzaF92YWx1ZT1yRU52em9tKzZ5Q0szUTh6dVBUODdBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 ,Warner
-http://e10.telerium.link:2052/free10/080/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMyA5OjUyOjQ1IFBNJmhhc2hfdmFsdWU9NVJrMjltMDc2ZGJibFRuTStHVkl0UT09JnZhbGlkbWludXRlcz0yNDA=
-
+http://e10.telerium.link:2052/free10/049/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIzIDM6NTM6MzggUE0maGFzaF92YWx1ZT00ZktnMVFFSXN6WFdWbWlHUE9KRG1BPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 
 
