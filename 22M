@@ -3,43 +3,6 @@
 #EXTINF:-1 ,azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1 ,ORBIT
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w388706928.m3u8
-
-#EXTINF:-1 ,multivision
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
-
-#EXTINF:-1 , Canal 5
-http://e10.telerium.link:2052/free10/234/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIzIDM6NDY6MzMgUE0maGFzaF92YWx1ZT16bERjTW9LTUZ4SC9yalpTQ25RL1FRPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-#EXTINF:-1 ,H
-http://e10.telerium.link:2052/free10/029/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIzIDM6NDg6MjQgUE0maGFzaF92YWx1ZT05T21UeFNUcHgyU09UZWx3T3JwaFZnPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-
-#EXTINF:-1 ,Star
-http://e10.telerium.link:2052/free10/030/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIzIDM6NDk6MTkgUE0maGFzaF92YWx1ZT02dzdsNGwyTW5oaWFNTHlkMHpVOWZnPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-
-#EXTINF:-1 ,Comedia central
-http://e10.telerium.link:2052/free10/054/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIzIDM6NTA6MjMgUE0maGFzaF92YWx1ZT1RTkx3WkY4WnZ4dWltN0srYjFEU3RRPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-#EXTINF:-1 ,Distrito comedia
-http://e10.telerium.link:2052/free10/056/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIzIDM6NTE6MjQgUE0maGFzaF92YWx1ZT1yRU52em9tKzZ5Q0szUTh6dVBUODdBPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-#EXTINF:-1 ,Warner
-http://e10.telerium.link:2052/free10/049/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIzIDM6NTM6MzggUE0maGFzaF92YWx1ZT00ZktnMVFFSXN6WFdWbWlHUE9KRG1BPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-
-
-
-
-
-
-
-#EXTINF:-1 ,SOMOS DEL ESTE TV
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
-
 #EXTINF:-1 ,Antares
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
@@ -51,34 +14,14 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 ,wow
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 ,Santa Fe Canal
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-1 ,Nativa TV
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
-#EXTINF:-1 ,Tigueritos TV
-https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
 #EXTINF:-1 ,TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 ,Toonizaki
-https://acl-server.linky.com.co/hls/toonizaki.m3u8
-
-#EXTINF:-1 ,Maxima TV
-https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
-
-#EXTINF:-1 ,Latino
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-
-#EXTINF:-1 ,Varied
-https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
-
-
-
-#EXTINF:-1 ,Cartoon Network Latino
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
 
 
@@ -100,41 +43,12 @@ https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 
 
-
-#EXTINF:-1 ,Chicos
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:-1 ,Latinokids2
-http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 ,chiquitines
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
-
-#EXTINF:-1 ,Paka Paka
-http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-
 #EXTINF:-1 ,TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 ,Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 ,Onda Digital 
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-
-#EXTINF:-1 ,Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-
-#EXTINF:-1 ,RadioInka
-https://tv.portalexpress.es:3175/hybrid/play.m3u8
-
-
-
-
-
-
-#EXTINF:-1 ,Catacaos
-https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
 #EXTINF:-1 ,Retro series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -196,14 +110,8 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 ,El Financiero
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
-#EXTINF:-1 ,FORO TV
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-
 #EXTINF:-1 ,ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 ,Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-
-#EXTINF:-1 ,Turistik TV
-https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
